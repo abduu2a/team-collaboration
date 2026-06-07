@@ -1,4 +1,22 @@
-# Realtime Quiz
+# Online Real-Time Quiz System
+
+## Requirements
+- Visual Studio 2015 or later
+- SQL Server
+
+## Installation
+
+1. Clone the repository
+2. Open the solution file
+3. Restore NuGet packages
+4. Configure database connection
+5. Run the application
+
+## Features
+- User Login
+- Quiz Creation
+- Real-Time Quiz Participation
+- Result Generation
 
 A clear starter project for a real-time online quiz system using ASP.NET Core, SignalR, Entity Framework Core, and MySQL.
 
